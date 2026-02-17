@@ -112,8 +112,7 @@ tests/
 **Installation**  
 ```bash
 npm install
-```bash
-
+```
 ** Environment Configuration** 
 Copy the example file:
 ```bash
