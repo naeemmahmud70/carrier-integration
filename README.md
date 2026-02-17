@@ -114,6 +114,7 @@ tests/
 npm install
 ```
 **Environment Configuration**
+
 Copy the example file:
 ```bash
 .env.example
