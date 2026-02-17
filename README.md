@@ -113,7 +113,7 @@ tests/
 ```bash
 npm install
 ```
-**Environment Configuration** 
+**Environment Configuration**
 Copy the example file:
 ```bash
 .env.example
